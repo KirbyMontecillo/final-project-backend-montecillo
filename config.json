@@ -3,10 +3,10 @@
     "host": "localhost",
     "port": 3306,
     "user": "root",
-    "password": " ",
+    "password": "121003",
     "database": "node_mysql_api"
   },
-  "secret": "62e97c9265427d4b8fb49165e4642fd7ef8f6988c65223277aec18a3f9a1cc0f",
+  "secret": "b829aa44911f78c7c29631643d1cf006812c2cecf69e954c1554243dd19a5c93",
   "emailFrom": "info@my-node-api.com",
   "smtpOptions": {
     "host": "smtp.ethereal.email",
