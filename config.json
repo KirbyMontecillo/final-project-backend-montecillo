@@ -3,7 +3,7 @@
     "host": "127.0.0.1",
     "port": 3307,
     "user": "root",
-    "password": "121003",
+    "password": "",
     "database": "final_project_db"
   },
   "secret": "b829aa44911f78c7c29631643d1cf006812c2cecf69e954c1554243dd19a5c93",
