@@ -6,7 +6,7 @@ info:
 
 servers:
   - url: https://final-project-montecillo.onrender.com
-    description: Local development server
+    description: Production Server
 
 paths:
   /accounts/authenticate:
